@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "minVersionCode": 7,
-  "versionName": "1.0.6",
-  "downloadUrl": "https://isbirligi-takip-guncelleme.gultekindevdev.chatgpt.site/Isbirligi-Takip-v1.0.6.apk",
-  "message": "Parmak iziyle giriş, e-posta/şifre hesabı ve otomatik özel bulut eşitleme eklendi. İlk hesabınız için izinli e-posta adresinizi kullanın.",
-  "sha256": "e73f3129f0d84a2aa2d66845fb448410498d9cb300fd77c137ee6d1317f3c60f"
+  "versionCode": 8,
+  "minVersionCode": 8,
+  "versionName": "1.0.7",
+  "downloadUrl": "https://isbirligi-takip-guncelleme.gultekindevdev.chatgpt.site/Isbirligi-Takip-v1.0.7.apk",
+  "message": "Parmak izi ve telefon kilidiyle açılış kaldırıldı. Hesap oturumunuz açıksa uygulama doğrudan açılır. Bulut kayıtları ve otomatik eşitleme devam eder.",
+  "sha256": "ca6ddbaf4ddd0f097cc634e4d73837bd3e067771905b49d0f0219884ae75d4c2"
 }
