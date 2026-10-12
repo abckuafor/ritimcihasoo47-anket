@@ -1,7 +1,8 @@
 {
-  "versionCode": 2,
-  "minVersionCode": 2,
-  "versionName": "1.0.1",
-  "downloadUrl": "",
-  "message": "Daha modern görünüm ve kesin zamanlı hatırlatmalar."
+  "versionCode": 5,
+  "minVersionCode": 5,
+  "versionName": "1.0.4",
+  "downloadUrl": "https://isbirligi-takip-guncelleme.gultekindevdev.chatgpt.site/Isbirligi-Takip-v1.0.4.apk",
+  "message": "Otomatik sürüm kontrolü ve zorunlu güncelleme yayını etkinleştirildi. Ana sayfadaki sekiz karttan liste ve detaylara ulaşabilirsiniz.",
+  "sha256": "ec6474c4ec7d75cec5b156188222d7b6865ae6a81269605ac77eb1e91c8ebb46"
 }
