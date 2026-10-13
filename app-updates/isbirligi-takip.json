@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "minVersionCode": 9,
-  "versionName": "1.0.8",
-  "downloadUrl": "https://isbirligi-takip-guncelleme.gultekindevdev.chatgpt.site/Isbirligi-Takip-v1.0.8.apk",
-  "message": "Uygulama içinden APK indirme ve Android kurulum ekranı eklendi. Bu sürüm kurulduktan sonraki güncellemelerde tarayıcı ve indirme sitesi açılmayacak.",
-  "sha256": "6babf5567c2690631c01ecc712f40466fca62a86aa71c5045faf3e2faf1b9c10"
+  "versionCode": 10,
+  "minVersionCode": 10,
+  "versionName": "1.0.9",
+  "downloadUrl": "https://isbirligi-takip-guncelleme.gultekindevdev.chatgpt.site/Isbirligi-Takip-v1.0.9.apk",
+  "message": "Modern görünüm, renkli özet kartları ve daha kullanışlı anlaşma listeleri eklendi.",
+  "sha256": "e393a34be3e885b967f46be71022f7fffac0f7443c757abfd93196ff8125a6ff"
 }
