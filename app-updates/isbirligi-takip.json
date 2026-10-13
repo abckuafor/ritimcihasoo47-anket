@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "minVersionCode": 10,
-  "versionName": "1.0.9",
-  "downloadUrl": "https://isbirligi-takip-guncelleme.gultekindevdev.chatgpt.site/Isbirligi-Takip-v1.0.9.apk",
-  "message": "Modern görünüm, renkli özet kartları ve daha kullanışlı anlaşma listeleri eklendi.",
-  "sha256": "e393a34be3e885b967f46be71022f7fffac0f7443c757abfd93196ff8125a6ff"
+  "versionCode": 11,
+  "minVersionCode": 11,
+  "versionName": "1.0.10",
+  "downloadUrl": "https://isbirligi-takip-guncelleme.gultekindevdev.chatgpt.site/Isbirligi-Takip-v1.0.10.apk",
+  "message": "Tarih ve saatler seçim pencerelerinden doldurulur. Hatırlatmaya takvim ve saat seçimi eklendi. Yeni tutar alanları boş açılır; binlik noktaları otomatik eklenir.",
+  "sha256": "1ee33b96b6cb4e013eff250bb1d54bc9e800850baa95d9153378a32430f63042"
 }
